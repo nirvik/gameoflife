@@ -1,3 +1,5 @@
 ** Game of Life **
 
-Javascript and Clojure implementation
+Javascript and Clojure implementation..
+
+Pending : Clojure implementation
